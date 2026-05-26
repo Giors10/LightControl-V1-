@@ -41,3 +41,4 @@ Finally, it has two buttons for on-board control: one for "ON" and one for "OFF.
 For any questions, please feel free to email me or comment on GitHub.
 
 Contact Email: Suramgiorgi10@gmail.com
+Everything is documented and displayed in depth on my personal website here <https://giorgi.uk/>
